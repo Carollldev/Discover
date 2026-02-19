@@ -68,8 +68,6 @@ ul li a:hover {
 
 }
 
-
-
 #social-links {
     display: flex;
     justify-content: center;
@@ -88,4 +86,10 @@ ul li a:hover {
 
 #social-links a:hover {
     background: rgba(255, 255, 255, 0.2);
+}
+
+footer {
+    padding: 24px;
+    text-align: center;
+    font-size: 14px;
 }
